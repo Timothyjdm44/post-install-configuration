@@ -2,3 +2,5 @@
 
 
 # post-install-configuration
+
+This tutorial continues the osTicket installation, which I've shared below if you still need to complete.
