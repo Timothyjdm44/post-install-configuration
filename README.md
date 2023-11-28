@@ -31,3 +31,5 @@ https://github.com/Timothyjdm44/osticket-prereqs
 <h2>Detailed Steps</h2>
 
 ![image](https://github.com/Timothyjdm44/post-install-configuration/assets/142111972/ec8994a2-7f4c-4204-945b-ffff3b0e6ca4)
+
+We'll first go to the login (http://localhost/osTicket/scp/login.php) to log in with the admin credentials from the previous tutorial.
