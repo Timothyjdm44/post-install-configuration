@@ -16,5 +16,15 @@ https://github.com/Timothyjdm44/osticket-prereqs
 
 - Windows 10</b> (21H2)
 
-Steps Used
+<h2>STEPS USED</h2>
+
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Download and install the Rewrite Module
+- Allow anyone to create tickets
+- Configure Agents (employees)
+- Configure Users (customers)
+- Configure SLAs
+- Configure Help Topics
 
