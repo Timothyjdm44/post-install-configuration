@@ -28,3 +28,6 @@ https://github.com/Timothyjdm44/osticket-prereqs
 - Configure SLAs
 - Configure Help Topics
 
+<h2>Detailed Steps</h2>
+
+![image](https://github.com/Timothyjdm44/post-install-configuration/assets/142111972/ec8994a2-7f4c-4204-945b-ffff3b0e6ca4)
