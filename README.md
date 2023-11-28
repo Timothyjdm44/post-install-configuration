@@ -13,3 +13,5 @@ https://github.com/Timothyjdm44/osticket-prereqs
 - HeidSQL
 
 <h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
