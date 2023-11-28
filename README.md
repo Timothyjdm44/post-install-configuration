@@ -15,3 +15,6 @@ https://github.com/Timothyjdm44/osticket-prereqs
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+
+Steps Used
+
