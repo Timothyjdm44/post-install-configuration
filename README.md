@@ -37,3 +37,5 @@ We'll first go to the login (http://localhost/osTicket/scp/login.php) to log in 
 ![image](https://github.com/Timothyjdm44/post-install-configuration/assets/142111972/db8fa13e-d6d1-414b-99e3-c7678eba81a5)
 
 Next, click "Admin Panel" at the top right of the screen. The button will change to "Agent Panel" when navigating the admin panel.
+
+![image](https://github.com/Timothyjdm44/post-install-configuration/assets/142111972/263972dc-73a6-4218-ab44-0b8d58010838)
