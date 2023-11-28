@@ -4,4 +4,10 @@ This tutorial continues the osTicket installation, which I've shared below if yo
 
 https://github.com/Timothyjdm44/osticket-prereqs
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments and Technologies Used In Tutorial</h2>
+
+- Microsoft Azure 
+- Remote Desktop
+- Internet Information Services (IIS)
+- osTicket
+- HeidSQL
