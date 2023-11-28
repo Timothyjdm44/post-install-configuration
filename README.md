@@ -33,3 +33,7 @@ https://github.com/Timothyjdm44/osticket-prereqs
 ![image](https://github.com/Timothyjdm44/post-install-configuration/assets/142111972/ec8994a2-7f4c-4204-945b-ffff3b0e6ca4)
 
 We'll first go to the login (http://localhost/osTicket/scp/login.php) to log in with the admin credentials from the previous tutorial.
+
+![image](https://github.com/Timothyjdm44/post-install-configuration/assets/142111972/db8fa13e-d6d1-414b-99e3-c7678eba81a5)
+
+Next, click "Admin Panel" at the top right of the screen. The button will change to "Agent Panel" when navigating the admin panel.
