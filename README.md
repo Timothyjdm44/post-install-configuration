@@ -84,11 +84,11 @@ Then go to Agent panel > Users > Add User
 
 Add the following users:
 
-Email Address: ken@osticket.com
+Email Address: Timothy@osticket.com
 
-Full Name: Ken
+Full Name: Timothy
 
-Email Address: karen@osticket.com
+Email Address: Karen@osticket.com
 
 Full Name: Karen
 
